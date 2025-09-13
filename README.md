@@ -1,0 +1,2 @@
+# ECOM (MERN)
+A full-stack E-Commerce Store built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It features user authentication, product catalog, shopping cart, order management, and payment integration. Admins can manage products and orders via a dedicated dashboard. The UI is fully responsive with a clean, modern design. Payments are handled securely via Stripe/PayPal. Built for scalability and performance with REST APIs and MongoDB Atlas.
